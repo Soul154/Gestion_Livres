@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|c:\\users\\souleymane.laminou\\source\\repos\\consoleappgestion_livres\\consoleappgestion_livres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|solutionrelative:consoleappgestion_livres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|c:\\users\\souleymane.laminou\\source\\repos\\consoleappgestion_livres\\consoleappgestion_livres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|solutionrelative:consoleappgestion_livres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|c:\\users\\souleymane.laminou\\source\\repos\\consoleappgestion_livres\\consoleappgestion_livres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|solutionrelative:consoleappgestion_livres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|c:\\users\\souleymane.laminou\\source\\repos\\consoleappgestion_livres\\consoleappgestion_livres\\livres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED102AC-0A06-4DE0-BF6B-5431A72B2FF2}|ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres.csproj|solutionrelative:consoleappgestion_livres\\livres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roman.cs",
+              "DocumentMoniker": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Roman.cs",
+              "RelativeDocumentMoniker": "ConsoleAppGestion_Livres\\Roman.cs",
+              "ToolTip": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Roman.cs",
+              "RelativeToolTip": "ConsoleAppGestion_Livres\\Roman.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:22:50.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Revue.cs",
+              "DocumentMoniker": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Revue.cs",
+              "RelativeDocumentMoniker": "ConsoleAppGestion_Livres\\Revue.cs",
+              "ToolTip": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Revue.cs",
+              "RelativeToolTip": "ConsoleAppGestion_Livres\\Revue.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:17:28.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livres.cs",
+              "DocumentMoniker": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Livres.cs",
+              "RelativeDocumentMoniker": "ConsoleAppGestion_Livres\\Livres.cs",
+              "ToolTip": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Livres.cs",
+              "RelativeToolTip": "ConsoleAppGestion_Livres\\Livres.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:01:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppGestion_Livres\\Program.cs",
+              "ToolTip": "C:\\Users\\souleymane.laminou\\source\\repos\\ConsoleAppGestion_Livres\\ConsoleAppGestion_Livres\\Program.cs",
+              "RelativeToolTip": "ConsoleAppGestion_Livres\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:44:08.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

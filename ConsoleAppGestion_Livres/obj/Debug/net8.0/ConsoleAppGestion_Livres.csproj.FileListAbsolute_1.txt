@@ -1,0 +1,14 @@
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\bin\Debug\net8.0\ConsoleAppGestion_Livres.exe
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\bin\Debug\net8.0\ConsoleAppGestion_Livres.deps.json
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\bin\Debug\net8.0\ConsoleAppGestion_Livres.runtimeconfig.json
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\bin\Debug\net8.0\ConsoleAppGestion_Livres.dll
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\bin\Debug\net8.0\ConsoleAppGestion_Livres.pdb
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.AssemblyInfoInputs.cache
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.AssemblyInfo.cs
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.csproj.CoreCompileInputs.cache
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.dll
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\refint\ConsoleAppGestion_Livres.dll
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.pdb
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ConsoleAppGestion_Livres.genruntimeconfig.cache
+C:\Users\souleymane.laminou\source\repos\ConsoleAppGestion_Livres\ConsoleAppGestion_Livres\obj\Debug\net8.0\ref\ConsoleAppGestion_Livres.dll
